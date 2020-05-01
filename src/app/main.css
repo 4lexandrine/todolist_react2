@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
+
+/* @import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "tailwindcss/screens"; */
+
+.icon svg {
+  vertical-align: -0.2em;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+}
