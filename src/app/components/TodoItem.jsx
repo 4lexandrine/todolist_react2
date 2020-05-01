@@ -68,7 +68,7 @@ const TodoItem = ({ todo }) => {
             variant="danger"
             className="ml-4"
             onClick={() => {
-              confirm();
+              confirm("Delete todo ?");
               deleteTodo(todo.id);
             }}
           />

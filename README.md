@@ -1,3 +1,7 @@
+## Demo
+
+![toDo List App](assets/thumb.gif)
+
 ## 📦 Installing the project
 
 ```
